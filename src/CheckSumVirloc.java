@@ -7,7 +7,7 @@
  */
 /**
  *
- * @author KRC
+ * @author Ing. Diego Romero
  */
 public class CheckSumVirloc {
 
